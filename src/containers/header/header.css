@@ -9,6 +9,7 @@
   justify-content: center;
   align-items: flex-start;
   flex-direction: column;
+  margin-left: 5rem;
 
   margin-right: 5rem;
 }
@@ -119,7 +120,7 @@
   }
 
   .gpt3__header-content {
-    margin: 0 0 3rem;
+    margin: 0 5rem 3rem;
   }
 }
 
